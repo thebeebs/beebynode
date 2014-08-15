@@ -1,0 +1,10 @@
+{
+  "name": "beebynode",
+  "version": "0.0.0",
+  "description": "beebynode",
+  "main": "server.js",
+  "author": {
+    "name": "mabeeby",
+    "email": ""
+  }
+}
